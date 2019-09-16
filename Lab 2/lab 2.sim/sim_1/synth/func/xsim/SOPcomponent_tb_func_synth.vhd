@@ -1,0 +1,13 @@
+-- Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+-- --------------------------------------------------------------------------------
+-- Tool Version: Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+-- Date        : Thu Apr 25 16:50:49 2019
+-- Host        : AsterixLaptop running 64-bit major release  (build 9200)
+-- Command     : write_vhdl -mode funcsim -nolib -force -file {C:/Users/Rickard
+--               Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab
+--               2.sim/sim_1/synth/func/xsim/SOPcomponent_tb_func_synth.vhd}
+-- Design      : bcdcheck2_tb
+-- Purpose     : This VHDL netlist is a functional simulation representation of the design and should not be modified or
+--               synthesized. This netlist cannot be used for SDF annotated simulation.
+-- Device      : xc7a35tcsg324-1
+-- --------------------------------------------------------------------------------

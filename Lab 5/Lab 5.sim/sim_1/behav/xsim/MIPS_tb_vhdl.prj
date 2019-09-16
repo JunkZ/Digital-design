@@ -1,0 +1,25 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/32BitALU.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/Adder_32Bit.vhd" \
+"../../../../Lab 5.srcs/sources_1/new/And_unit.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/Arith_32bit.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/ControlUnit.vhd" \
+"../../../../Lab 5.srcs/sources_1/new/DataMemory.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/FullAdder.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/LogicUnit.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/MIPS.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/MUX_32bit.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/MUX_32bit_2to1.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/MUX_5bit_2to1.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/ProgramMemory.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/Register.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/RegisterFile.vhd" \
+"../../../../Lab 5.srcs/sources_1/new/ShiftLeft_2.vhd" \
+"../../../../Lab 5.srcs/sources_1/new/ShiftLeft_26bit.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/SignExtend.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/ZeroExtend.vhd" \
+"../../../../Lab 5.srcs/sources_1/imports/lab 5 src/MIPS_tb.vhd" \
+
+# Do not sort compile order
+nosort

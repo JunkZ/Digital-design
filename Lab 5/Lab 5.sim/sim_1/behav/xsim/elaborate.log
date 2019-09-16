@@ -1,0 +1,35 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 3147897190a24191a65dcdcb5d6b6307 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot MIPS_tb_behav xil_defaultlib.MIPS_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.ZeroExtend [zeroextend_default]
+Compiling architecture behavioral of entity xil_defaultlib.FullAdder [fulladder_default]
+Compiling architecture behavioral of entity xil_defaultlib.Adder_32Bit [adder_32bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Arith_32bit [arith_32bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.LogicUnit [logicunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_32bit [mux_32bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU_32Bit [alu_32bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.ControlUnit [controlunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.DataMemory [datamemory_default]
+Compiling architecture behavioral of entity xil_defaultlib.InstructionMemory [instructionmemory_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_32bit_2to1 [mux_32bit_2to1_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_5bit_2to1 [mux_5bit_2to1_default]
+Compiling architecture behavioral of entity xil_defaultlib.RegisterFile [registerfile_default]
+Compiling architecture behavioral of entity xil_defaultlib.SignExtend [signextend_default]
+Compiling architecture behavioral of entity xil_defaultlib.ShiftLeft_2 [shiftleft_2_default]
+Compiling architecture behavioral of entity xil_defaultlib.ShiftLeft_2_26bit [shiftleft_2_26bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Register_32bit [register_32bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.And_unit [and_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.MIPS [mips_default]
+Compiling architecture behavioral of entity xil_defaultlib.mips_tb
+Built simulation snapshot MIPS_tb_behav

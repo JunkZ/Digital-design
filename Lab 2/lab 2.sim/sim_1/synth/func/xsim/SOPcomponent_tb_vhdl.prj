@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"SOPcomponent_tb_func_synth.vhd" \
+"../../../../../lab 2.srcs/sim_1/new/PLDcell.vhd" \
+"../../../../../lab 2.srcs/sources_1/new/SOPcomponent.vhd" \
+"../../../../../lab 2.srcs/sim_1/new/SOPcomponent_td.vhd" \
+
+# Do not sort compile order
+nosort

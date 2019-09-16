@@ -1,0 +1,25 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sim_1/new/DataMemory_tb.vhd,1558597750,vhdl,,,,datamemory_tb,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/32BitALU.vhd,1558528910,vhdl,,,,alu_32bit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/Adder_32Bit.vhd,1557763707,vhdl,,,,adder_32bit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/Arith_32bit.vhd,1557763743,vhdl,,,,arith_32bit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/ControlUnit.vhd,1558608106,vhdl,,,,controlunit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/FullAdder.vhd,1557261140,vhdl,,,,fulladder,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/LogicUnit.vhd,1557749916,vhdl,,,,logicunit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/MIPS.vhd,1558595096,vhdl,,,,mips,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/MIPS_tb.vhd,1558452408,vhdl,,,,mips_tb,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/MUX_32bit.vhd,1557763765,vhdl,,,,mux_32bit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/MUX_32bit_2to1.vhd,1557839461,vhdl,,,,mux_32bit_2to1,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/MUX_5bit_2to1.vhd,1557839951,vhdl,,,,mux_5bit_2to1,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/ProgramMemory.vhd,1558679457,vhdl,,,,instructionmemory,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/Register.vhd,1557264455,vhdl,,,,register_32bit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/RegisterFile.vhd,1557921265,vhdl,,,,registerfile,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/SignExtend.vhd,1557839116,vhdl,,,,signextend,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/imports/lab 5 src/ZeroExtend.vhd,1557763730,vhdl,,,,zeroextend,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/new/And_unit.vhd,1558364576,vhdl,,,,and_unit,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/new/DataMemory.vhd,1558598102,vhdl,,,,datamemory,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/new/ShiftLeft_2.vhd,1558365722,vhdl,,,,shiftleft_2,,,,,,,,
+C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/Lab 5/Lab 5.srcs/sources_1/new/ShiftLeft_26bit.vhd,1558366601,vhdl,,,,shiftleft_2_26bit,,,,,,,,

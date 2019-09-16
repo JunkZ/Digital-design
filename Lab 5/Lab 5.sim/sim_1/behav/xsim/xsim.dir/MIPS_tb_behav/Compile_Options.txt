@@ -1,0 +1,1 @@
+-wto "3147897190a24191a65dcdcb5d6b6307" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "MIPS_tb_behav" "xil_defaultlib.MIPS_tb" -log "elaborate.log" 

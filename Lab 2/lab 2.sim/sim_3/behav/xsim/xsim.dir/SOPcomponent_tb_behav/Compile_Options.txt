@@ -1,0 +1,1 @@
+-wto "c09edbb593e34b66808118e9332967b7" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "SOPcomponent_tb_behav" "xil_defaultlib.SOPcomponent_tb" -log "elaborate.log" 

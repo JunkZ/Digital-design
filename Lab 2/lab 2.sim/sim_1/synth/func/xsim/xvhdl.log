@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab 2.sim/sim_1/synth/func/xsim/SOPcomponent_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab 2.srcs/sim_1/new/PLDcell.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PLDcell'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab 2.srcs/sources_1/new/SOPcomponent.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SOPscomponent'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab 2.srcs/sim_1/new/SOPcomponent_td.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SOPcomponent_tb'

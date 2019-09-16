@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+102 true C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab 2.srcs/sim_1/new/SOPcomponent_td.vhd

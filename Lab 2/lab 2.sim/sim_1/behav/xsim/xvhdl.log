@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab 2.srcs/sim_1/new/BCDcheck4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCDcheck4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E, Digitalteknik/Uppgifter/lab 2/lab 2.srcs/sim_1/new/BCDcheck4_td.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bcdcheck4_tb'
