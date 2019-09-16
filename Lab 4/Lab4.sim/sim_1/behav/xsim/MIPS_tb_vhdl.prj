@@ -1,0 +1,22 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/32BitALU.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/Adder_32Bit.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/Arith_32bit.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/ControlUnit.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/FullAdder.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/LogicUnit.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/MIPS.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/MUX_32bit.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/MUX_32bit_2to1.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/MUX_5bit_2to1.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/PCPlus4.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/ProgramMemory.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/Register.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/RegisterFile.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/SignExtend.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/ZeroExtend.vhd" \
+"../../../../Lab4.srcs/sources_1/imports/lab4_vhdl/MIPS_tb.vhd" \
+
+# Do not sort compile order
+nosort

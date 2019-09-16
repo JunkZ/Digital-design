@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"bcdcheck2_tb_func_synth.vhd" \
+"../../../../../../../Material/Labborationer/resurser/lab1/bcdcheck2_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../Material/Labborationer/resurser/lab1/bcdcheck.vhd" \
+"../../../../../../Material/Labborationer/resurser/lab1/bcdcheck_tb.vhd" \
+
+# Do not sort compile order
+nosort
