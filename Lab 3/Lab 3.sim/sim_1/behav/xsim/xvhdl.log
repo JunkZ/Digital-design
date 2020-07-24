@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Adder_32Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Adder_32Bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/FullAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FullAdder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/PCPlus4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PCPlus4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Register.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Register_32bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/PCPlus4_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PCPlus4_tb'

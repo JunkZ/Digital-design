@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab 3.srcs/sim_1/new/32BitALU.vhd" \
+"../../../../Lab 3.srcs/sim_1/new/Adder_32Bit.vhd" \
+"../../../../Lab 3.srcs/sources_1/new/Arith_32bit.vhd" \
+"../../../../Lab 3.srcs/sim_1/new/FullAdder.vhd" \
+"../../../../Lab 3.srcs/sim_1/new/LogicUnit.vhd" \
+"../../../../Lab 3.srcs/sim_1/new/MUX_32bit.vhd" \
+"../../../../Lab 3.srcs/sim_1/new/ZeroExtend.vhd" \
+"../../../../Lab 3.srcs/sim_1/new/32BitALU_tb.vhd" \
+
+# Do not sort compile order
+nosort

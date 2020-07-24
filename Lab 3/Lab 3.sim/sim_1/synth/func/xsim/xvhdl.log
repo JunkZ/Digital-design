@@ -1,0 +1,11 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.sim/sim_1/synth/func/xsim/Part1_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Arith.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Arith'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Part1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Part1_tb'
+ERROR: [VRFC 10-1471] type error near a ; current type std_logic_vector; expected type std_logic [C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Part1_tb.vhd:53]
+ERROR: [VRFC 10-2989] 'c' is not declared [C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Part1_tb.vhd:53]
+ERROR: [VRFC 10-3095] actual of formal out port 'c' cannot be an expression [C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Part1_tb.vhd:53]
+ERROR: [VRFC 10-3782] unit 'behavioral' ignored due to previous errors [C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Part1_tb.vhd:29]
+INFO: [VRFC 10-3070] VHDL file 'C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.srcs/sim_1/new/Part1_tb.vhd' ignored due to errors

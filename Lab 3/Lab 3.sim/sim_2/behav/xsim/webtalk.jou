@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon May 13 14:20:31 2019
+# Process ID: 6496
+# Current directory: C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.sim/sim_2/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.sim/sim_2/behav/xsim/xsim.dir/ALU_32Bit_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.sim/sim_2/behav/xsim/webtalk.log
+# Journal file: C:/Users/Rickard Bemm/OneDrive/Dokument/Skola/Universitet/D0011E Digitalteknik/Uppgifter/lab 3/Lab 3.sim/sim_2/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Rickard -notrace
